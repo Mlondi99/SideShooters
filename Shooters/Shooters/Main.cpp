@@ -28,7 +28,7 @@ int main(int argc, char**argv)
 
 
 
-	//initialisation of allegro
+	//initialisation of allegro 
 	if (!al_init())
 		return -1;
 	display = al_create_display(width, lenght);

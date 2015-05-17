@@ -38,7 +38,7 @@ struct SpaceShip  // this can be written as a class
 	ALLEGRO_BITMAP *image;
 };
 
-struct Bullet
+struct Bullet //
 {
 	int ID;
 	int x;
